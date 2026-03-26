@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Artistmatch 2.0",
+    "slug": "artistmatch-2-0",
+    "scheme": "artistmatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
