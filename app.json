@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Artistmatch 2.0",
+    "slug": "artistmatch-2-0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#120c0c"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
